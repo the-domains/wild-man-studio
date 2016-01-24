@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://wildmanstudio.com/what-im-reading/'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'abstract, Art & Life, book, landscape, resources, Visionary'
-datePublished: '2016-01-24T02:03:51.929Z'
-dateModified: '2016-01-24T02:03:45.576Z'
+datePublished: '2016-01-24T02:06:04.446Z'
+dateModified: '2016-01-24T02:06:01.203Z'
 author: []
 title: "What I'm Reading"
 sourcePath: _posts/2016-01-24-what-im-reading.md
