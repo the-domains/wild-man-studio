@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'abstract, Art & Life, book, landscape, resources, Visionary'
-datePublished: '2016-01-24T02:20:19.965Z'
+datePublished: '2016-01-24T02:20:19.966Z'
 dateModified: '2016-01-24T02:20:15.688Z'
 author: []
 title: "What I'm Reading"
