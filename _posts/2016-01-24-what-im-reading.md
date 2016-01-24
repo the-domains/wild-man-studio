@@ -6,19 +6,19 @@ isBasedOnUrl: 'http://wildmanstudio.com/what-im-reading/'
 inLanguage: null
 starred: false
 keywords: []
-description: 'what I’m reading Posted on January 21, 2016 /Under abstract, Art & Life, book, landscape, resources, Visionary /With 0 Comments I bought myself a couple of arti'
-datePublished: '2016-01-24T02:00:54.837Z'
-dateModified: '2016-01-24T02:00:15.120Z'
+description: 'abstract, Art & Life, book, landscape, resources, Visionary'
+datePublished: '2016-01-24T02:03:51.904Z'
+dateModified: '2016-01-24T02:03:45.576Z'
 author: []
 title: "What I'm Reading"
+sourcePath: _posts/2016-01-24-what-im-reading.md
+published: true
 authors: []
 publisher:
   name: wildmanstudio.com
   domain: wildmanstudio.com
   url: null
   favicon: null
-sourcePath: _posts/2016-01-24-what-im-reading.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
